@@ -11,11 +11,11 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Assistant System Engineer at **TCS**, with 1.5+ years of professional experience  
+- 💼 Assistant System Engineer at **TCS**, with 1.7+ years of professional experience  
 - 🧠 Passionate about full-stack web development using the **MERN Stack**
 - 🔭 Currently working on:
-  - **Resume Builder App** (React + Node + MongoDB + PDF Generator)
-  - **iSticky Note App** (a personal notes manager)
+  - **Online food delivery (hungrify)** (React + Node + MongoDB + Express)
+  - **iSticky Note App** (a personal notes manager) - Completed
 - 👯 Looking to collaborate on:
   - Full-stack projects, open-source tools, and creative SaaS ideas
 - 🤝 Open to help with:
@@ -61,6 +61,9 @@
 ---
 
 ## 📌 Featured Projects
+
+### [📘 Hungrify - Food delivery](https://github.com/ravipanchal0/hungrify)
+> MERN Stack-based hungrify with admin panel and other many features.
 
 ### [📘 iSticky Note](https://github.com/ravipanchal0/isticky-note)
 > MERN Stack-based sticky note app with login, CRUD, and mark as done features.
