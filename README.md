@@ -11,11 +11,8 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Assistant System Engineer at **TCS**, with 2+ years of professional experience  
+- 💼 System Engineer at **TCS**, with 2+ years of professional experience  
 - 🧠 Passionate about full-stack web development using the **MERN Stack**
-- 🔭 Currently working on:
-  - **Online food delivery (hungrify)** (React + Node + MongoDB + Express)
-  - **iSticky Note App** (a personal notes manager) - Completed
 - 👯 Looking to collaborate on:
   - Full-stack projects, open-source tools, and creative SaaS ideas
 - 🤝 Open to help with:
